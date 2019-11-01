@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Conference playback on the TED platform" skipped="0" tests="1" time="7.98" timestamp="2019-07-30 02:16:50"><testcase name="Reproduce a conference on the TED platform"><error message="org/openqa/selenium/interactions/Coordinates" type="java.lang.NoClassDefFoundError">org/openqa/selenium/interactions/Coordinates</error><system-err>org/openqa/selenium/interactions/Coordinates&#13;
+com.accenture.reto2cucumbermaven.pages.TedPage.enter_keywords(TedPage.java:20)&#13;
+com.accenture.reto2cucumbermaven.steps.StepTed.is_enter_credentials(StepTed.java:23)&#13;
+com.accenture.reto2cucumbermaven.step_definitions.StepsDefinitions1.i_enter_the_credentials_of_esuarca_gmail_com_with_Esuarca(StepsDefinitions1.java:22)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>

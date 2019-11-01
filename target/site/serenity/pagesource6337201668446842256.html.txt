@@ -1,0 +1,41 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta charset="utf-8" />
+<title>TED: Ideas worth spreading</title>
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="msapplicationTileColor" content="#000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NGKpvJ6ifBWahQJy53wCms60qixVJXx5Mr1iNPV8d8jEJe8o1yhwP/qoL+LIm3rs0Ah9kQvU29VHP/adKqdR2w==" />
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+_q=[];q=function(){_q.push(arguments)};
+</script>
+<link rel="stylesheet" media="screen" href="/packs/v2-css-a5039665b83fb1026fc822b621d5ca33.css" />
+<script src="/packs/v2-js-c99b2545bfd0749157fe.js"></script><style data-emotion=""></style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-40781755-2', 'ted.com');
+  ga('send', 'pageview');
+</script>
+
+</head>
+<body>
+<noscript>
+&lt;div class='noscript'&gt;
+TED Auth requires JavaScript.
+Please enable JavaScript in your browser.
+&lt;/div&gt;
+</noscript>
+<div aria-hidden="" style="display:none"><script>
+  q('initAuthFlow', {"context":"ted.auth/sign-in","requireName":true,"requirePassword":false,"requireVerification":false,"returnToUrl":null});
+</script>
+
+</div><div class="css-t3ccau"><div class="css-12krufw-base"><div class="css-1mhleip"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0, 0, 96, 54" class="css-7ty3g8"><title>TED</title><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg><div class="css-1rp2ahj">To continue,<span class="css-1au0gxy"> </span>sign in to TED</div></div><div class="css-dsj9sg"><p class="css-1op6d63"><button type="button" class="css-o0dnui-base-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0, 0, 100, 100" role="img" aria-labelledby="false" class="css-1s22yyq"><path d="M55 75.35H44.249V49.997h-5.373v-8.736h5.373v-5.245c0-7.126 3.032-11.366 11.651-11.366h7.175v8.739h-4.484c-3.356 0-3.578 1.221-3.578 3.499l-.014 4.373h8.125l-.951 8.736h-7.174V75.35H55z"/></svg>Continue with Facebook</button></p><div class="css-dzao0h"><div class="css-160iw16"></div><span class="css-1lbycyy-base">or</span></div><h3 class="css-cn7qci">Enter your email</h3><form action="https://auth.ted.com" method="post" class="css-cvysi3"><label class="css-qhsxt4"><div class="css-16sacwc">Email address</div><input class="css-1dgn86m-base" required="" type="email" autocomplete="username" name="username" spellcheck="false" autocorrect="off" autocapitalize="none" error="" /></label><input class="css-1h5aco8" type="password" autocomplete="current-password" spellcheck="false" autocorrect="off" autocapitalize="none" tabindex="-1" aria-hidden="true" value="" /><div class="css-1jr5mex"><span class="css-pmp369"><span class="css-17ltv1z"><button type="submit" disabled="" class="css-1q3y1y9-base-button">Continue</button></span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0, 0, 100, 100" role="img" aria-labelledby="false" class="css-6jdegc"><g fill="none" fill-rule="evenodd" stroke-width="5"><path d="M80,50 C80,33.433 66.567,20 50,20" stroke="#555" transform="rotate(224.991 50 50)"><animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="0.8s" repeatCount="indefinite"/></path></g></svg></span></div></form></div></div></div><div class="css-t0n8bb"></div>
+
+
+</body></html>

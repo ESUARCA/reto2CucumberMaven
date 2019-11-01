@@ -1,0 +1,767 @@
+<!DOCTYPE html><!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]--><!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" class="js loggedin js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths cors" lang="en"><!--<![endif]--><head>
+<script async="" src="https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.4"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset="utf-8" />
+<title>How humans could evolve to survive in space | Search Results | TED</title>
+<meta name="description" content="Talks, people, playlists, topics, and events about &quot;How humans could evolve to survive in space&quot; on TED.com" />
+<link rel="canonical" href="https://www.ted.com/search?q=How+humans+could+evolve+to+survive+in+space" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="How humans could evolve to survive in space" /><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="NM8aJqFzhBaHkGhVxfuhrUcRf6pF05aWkaj72ljltVBaMy/fPPAMCaDEEB0jdbNjnL16nAPMkOkTW+FLWtuC1g==" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><link href="https://pa.tedcdn.com/javascripts/screens/22cc1a63fe14e153e41f.chunk.js" rel="prefetch" />
+<link href="https://pa.tedcdn.com/javascripts/screens/06e0f215bd3d6e579e77.chunk.js" rel="prefetch" />
+<link href="https://pa.tedcdn.com/javascripts/screens/global-04acbee1e2e36ddba60e.chunk.css" rel="stylesheet" />
+<link href="https://pa.tedcdn.com/javascripts/screens/shed-3425c6186e7050151957.chunk.css" rel="stylesheet" />
+<link href="https://pa.tedcdn.com/javascripts/screens/search-874f841d3631a08df36b.chunk.css" rel="stylesheet" /><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l &amp;&amp; d!="yes" &amp;&amp; d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator &amp;&amp; window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1564185000,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21","hasEndorsement":"dimension22","exploreCTASource":"dimension23","streamStructure":"dimension25","streamHost":"dimension26"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i &lt; l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) &lt; 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  
+  TED["controller"]="search"
+</script><link rel="preload" href="https://adservice.google.com.co/adsid/integrator.js?domain=www.ted.com" as="script" /><script type="text/javascript" src="https://adservice.google.com.co/adsid/integrator.js?domain=www.ted.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.ted.com" as="script" /><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.ted.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019072601.js" async=""></script><style type="text/css"></style><style data-emotion=""></style><script charset="utf-8" src="/javascripts/screens/5f1b96a8ad697f743061.chunk.js"></script><script charset="utf-8" src="/javascripts/screens/6a48380ea2da2991fb3e.chunk.js"></script><script charset="utf-8" src="/javascripts/screens/ef6f9c72925b4480ca8d.chunk.js"></script><style data-emotion="css-global"></style><style data-emotion="css"></style></head>
+<body class="search-body">
+<div class="shoji" id="shoji">
+<div class="shoji__fixtures" id="shoji-fixtures"></div>
+<div class="shoji__door">
+<div class="page shoji__washi">
+<noscript>
+&lt;div class='alert alert--flash alert--warning'&gt;
+&lt;div class='container'&gt;
+&lt;div class='h9'&gt;You have JavaScript disabled&lt;/div&gt;
+For the best experience, please turn JavaScript on.
+&lt;a href='https://enable-javascript.com/'&gt;Here's how&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"&lt;div class='alert alert--flash alert--warning' id='uconf'&gt;\n&lt;div class='container'&gt;\n&lt;div class='alert__container'&gt;&lt;h4 class='h10 m5'&gt;Your account isn't active yet.&lt;/h4&gt;Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n&lt;a href='https://auth.ted.com/account/confirmation/new'&gt;send it again&lt;/a&gt;.\n&lt;a class='alert__close g g-button-modal-close' href='#' id='uconf-close'&gt;Close&lt;/a&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n"))
+</script><nav class="Main-nav Main-nav/Popper" id="main-nav" role="navigation">
+<div class="Main-nav/Popper__smoke Main-nav__smoke z-i:9" id="main-nav-popper-smoke"></div>
+<div class="hide-lg fl:l d:n@lg" role="presentation">
+<a aria-haspopup="true" class="Main-nav__item Main-nav__label f-w:700 t-t:u undec" href="#" onclick="g('mainNav.openHamburger'); return false" role="button"><span class="if-no-svg">Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class="Main-nav__home-button ga-link" data-ga-action="home" data-ga-category="navigation.item" data-ga-label="/" href="/" rel="home">
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class="Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg" role="presentation"><span class="">Ideas worth spreading</span></div>
+</a>
+<div class="pos:a right:0 top:0 Main-nav__bar" role="presentation">
+<ul class="sl fl:l show-lg" role="menubar">
+<li class="pos:r fl:l z-i:10 Main-nav__category" data-popper-name="watch" data-popper-root="" role="presentation">
+<a aria-haspopup="" class="Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec" data-popper-target="" href="#" onclick="return false" role="menuitem">Watch</a>
+<ul aria-hidden="" class="Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl" role="menu">
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks">
+<div class="f-w:700 m-b:.1">TED Talks</div>
+<div class="c:gray">Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/recommends?exploreCTASource=main-nav.item" href="/recommends?exploreCTASource=main-nav.item">
+<div class="f-w:700 m-b:.1">TED Recommends</div>
+<div class="c:gray">Get TED Talks picked just for you</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists">
+<div class="f-w:700 m-b:.1">Playlists</div>
+<div class="c:gray">100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/series" href="/series">
+<div class="f-w:700 m-b:.1">TED Series</div>
+<div class="c:gray">Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed">
+<div class="f-w:700 m-b:.1">TED-Ed videos</div>
+<div class="c:gray">Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks">
+<div class="f-w:700 m-b:.1">TEDx Talks</div>
+<div class="c:gray">Talks from independently organized local events</div>
+</a>
+</li>
+</ul>
+</li>
+<li class="pos:r fl:l z-i:10 Main-nav__category" data-popper-name="discover" data-popper-root="" role="presentation">
+<a aria-haspopup="" class="Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec" data-popper-target="" href="#" onclick="return false" role="menuitem">Discover</a>
+<ul aria-hidden="" class="Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl" role="menu">
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics">
+<div class="f-w:700 m-b:.1">Topics</div>
+<div class="c:gray">Explore TED offerings by topic</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/podcasts" href="/podcasts">
+<div class="f-w:700 m-b:.1">Podcasts</div>
+<div class="c:gray">TED's original podcast initiatives</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books">
+<div class="f-w:700 m-b:.1">TED Books</div>
+<div class="c:gray">Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com">
+<div class="f-w:700 m-b:.1">Ideas Blog</div>
+<div class="c:gray">Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter">
+<div class="f-w:700 m-b:.1">Newsletter</div>
+<div class="c:gray">Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class="pos:r fl:l z-i:10 Main-nav__category" data-popper-name="attend" data-popper-root="" role="presentation">
+<a aria-haspopup="" class="Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec" data-popper-target="" href="#" onclick="return false" role="menuitem">Attend</a>
+<ul aria-hidden="" class="Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl" role="menu">
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences">
+<div class="f-w:700 m-b:.1">Conferences</div>
+<div class="c:gray">Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events">
+<div class="f-w:700 m-b:.1">TEDx events</div>
+<div class="c:gray">Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-on-screen" href="/attend/ted-on-screen">
+<div class="f-w:700 m-b:.1">TED on screen</div>
+<div class="c:gray">Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class="pos:r fl:l z-i:10 Main-nav__category" data-popper-name="participate" data-popper-root="" role="presentation">
+<a aria-haspopup="" class="Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec" data-popper-target="" href="#" onclick="return false" role="menuitem">Participate</a>
+<ul aria-hidden="" class="Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl" role="menu">
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate">
+<div class="f-w:700 m-b:.1">Nominate</div>
+<div class="c:gray">Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event">
+<div class="f-w:700 m-b:.1">Organize a local TEDx event</div>
+<div class="c:gray">Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate">
+<div class="f-w:700 m-b:.1">Translate</div>
+<div class="c:gray">Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program">
+<div class="f-w:700 m-b:.1">TED Fellows</div>
+<div class="c:gray">Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class="pos:r fl:l z-i:10 Main-nav__category" data-popper-name="about" data-popper-root="" role="presentation">
+<a aria-haspopup="" class="Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec" data-popper-target="" href="#" onclick="return false" role="menuitem">About</a>
+<ul aria-hidden="" class="Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl" role="menu">
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization">
+<div class="f-w:700 m-b:.1">Our organization</div>
+<div class="c:gray">Our mission, history, team, and more</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences">
+<div class="f-w:700 m-b:.1">Conferences</div>
+<div class="c:gray">TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives">
+<div class="f-w:700 m-b:.1">Programs &amp; Initiatives</div>
+<div class="c:gray">Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted">
+<div class="f-w:700 m-b:.1">Partner with TED</div>
+<div class="c:gray">Learn how you can partner with us</div>
+</a>
+</li>
+<li role="menuitem">
+<a class="d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com">
+<div class="f-w:700 m-b:.1">TED Blog</div>
+<div class="c:gray">Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="Main-nav__divider nav__divider fl:l show-lg"></div>
+<div class="loggedin-only fl:l pos:r z-i:10" data-popper-name="account" data-popper-root=""><a class="Main-nav__item Main-nav__account-button" data-popper-target="" href="/dashboard" id="main-nav-account-button" onclick="return false" role="button" title="Your account">
+<div class="Main-nav__account-button__avatar" style="background-image: url(&quot;https://pi.tedcdn.com/r/pa.tedcdn.com/temp/default-avatar-invert.png?c=50%2C50&amp;h=50&amp;ll=0&amp;op=%5E&amp;w=50&quot;);">
+<div class="Main-nav__account-button__badge"></div>
+</div>
+</a>
+<div aria-hidden="" class="Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top" id="main-nav-account-menu" role="menu">  <a class="&#10;      a-i:c&#10;      b-b:2&#10;      b:black.9&#10;      d:f&#10;      p-x:4&#10;      p-y:.8&#10;      t-d:n&#10;      ga-link&#10;    " href="/profile" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="/profile">
+    <div class="&#10;        b-r:10&#10;        h:6&#10;        m-r:.8&#10;        w:6&#10;      " style="background-image: url(https://pi.tedcdn.com/r/pa.tedcdn.com/temp/default-avatar-invert.png?c=50%2C50&amp;h=50&amp;ll=0&amp;op=%5E&amp;w=50); background-size: cover;">
+    </div>
+    <div>
+      <div class="f:1 f-w:700">Erika Tatiana</div>
+      <div class="&#10;          f:.8&#10;          d:b&#10;          t-d:u&#10;          ga-link&#10;        " href="/profile" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="/profile">
+        View profile &gt;
+      </div>
+    </div>
+  </a>
+
+<ul class="sl">
+    <li>
+      <a class="&#10;          Main-nav__fs-1&#10;          hover/bg:gray-ll&#10;          f-w:700&#10;          d:b&#10;          p-x:4&#10;          p-y:.7&#10;          undec&#10;          ga-link&#10;          &#10;        " href="/dashboard/favorites/talks" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="/dashboard/favorites/talks">Likes</a>
+    </li>
+    <li>
+      <a class="&#10;          Main-nav__fs-1&#10;          hover/bg:gray-ll&#10;          f-w:700&#10;          d:b&#10;          p-x:4&#10;          p-y:.7&#10;          undec&#10;          ga-link&#10;          &#10;        " href="/dashboard/list" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="/dashboard/list">Your list</a>
+    </li>
+    <li>
+      <a class="&#10;          Main-nav__fs-1&#10;          hover/bg:gray-ll&#10;          f-w:700&#10;          d:b&#10;          p-x:4&#10;          p-y:.7&#10;          undec&#10;          ga-link&#10;          b-b:2 b:black.9&#10;        " href="/dashboard/history" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="/dashboard/history">Watch history</a>
+    </li>
+    <li>
+      <a class="&#10;          Main-nav__fs-1&#10;          hover/bg:gray-ll&#10;          f-w:700&#10;          d:b&#10;          p-x:4&#10;          p-y:.7&#10;          undec&#10;          ga-link&#10;          &#10;        " href="https://www.ted.com/settings/account" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="https://www.ted.com/settings/account">Account settings</a>
+    </li>
+    <li>
+      <a class="&#10;          Main-nav__fs-1&#10;          hover/bg:gray-ll&#10;          f-w:700&#10;          d:b&#10;          p-x:4&#10;          p-y:.7&#10;          undec&#10;          ga-link&#10;          &#10;        " href="https://auth.ted.com/session/logout?referer=https://www.ted.com/session/logout" data-ga-category="navigation.item" data-ga-action="account" data-ga-label="https://auth.ted.com/session/logout?referer=https://www.ted.com/session/logout">Log Out</a>
+    </li>
+</ul>
+</div></div>
+<a class="Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec" href="/session/new">Log in</a>
+<div class="Main-nav__divider fl:l show-lg"></div>
+<div class="fl:l show-lg">
+<a class="Main-nav__item" href="/search" id="main-nav-search" role="button">
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action="/search" aria-hidden="true" class="Main-nav__search pos:a right:0" id="main-nav-search-form" role="search">
+<div class="Main-nav__search__content left:0 pos:a">
+<div class="Main-nav__divider fl:l"></div>
+<label>
+<span class="screen-reader-text">
+Search:
+</span>
+<input aria-label="Search" autocorrect="off" class="Main-nav__fs-6 Main-nav__search__input" name="q" placeholder="Type to search" tabindex="-1" title="Press Enter to begin search" />
+</label>
+<a aria-label="Close" class="Main-nav__search__close fl:r" href="#" role="button" tabindex="-1">
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id="main-nav-slideouts"><div></div><div></div></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/recommends?exploreCTASource=main-nav.item","label":"TED Recommends","info":"Get TED Talks picked just for you"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/podcasts","label":"Podcasts","info":"TED's original podcast initiatives"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs &amp; Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class="main search-main" role="main">
+<div class="search">
+<div class="container">
+<div class="row">
+<div class="col-lg-3">
+<nav class="submenu" id="submenu">
+<h3 class="submenu__heading"><a class="l3 submenu__link submenu__heading__link" href="#">Search menu</a></h3>
+<div class="submenu__lists">
+<ul class="submenu__list">
+<li class="submenu__item submenu__item--active">
+<a class="l3 submenu__link" href="/search?q=How+humans+could+evolve+to+survive+in+space">All</a>
+</li><li class="submenu__item">
+<a class="l3 submenu__link" href="/search?cat=videos&amp;q=How+humans+could+evolve+to+survive+in+space">Talks</a>
+<span class="submenu__item__count">
+5
+</span>
+</li>
+<li class="submenu__item">
+<a class="l3 submenu__link" href="/search?cat=people&amp;q=How+humans+could+evolve+to+survive+in+space">People</a>
+<span class="submenu__item__count">
+0
+</span>
+</li>
+<li class="submenu__item">
+<a class="l3 submenu__link" href="/search?cat=playlists&amp;q=How+humans+could+evolve+to+survive+in+space">Playlists</a>
+<span class="submenu__item__count">
+4
+</span>
+</li>
+<li class="submenu__item">
+<a class="l3 submenu__link" href="/search?cat=blog_posts&amp;q=How+humans+could+evolve+to+survive+in+space">Blog posts</a>
+<span class="submenu__item__count">
+1
+</span>
+</li>
+<li class="submenu__item">
+<a class="l3 submenu__link" href="/search?cat=pages&amp;q=How+humans+could+evolve+to+survive+in+space">Pages</a>
+<span class="submenu__item__count">
+0
+</span>
+</li>
+<li class="submenu__item">
+<a class="l3 submenu__link" href="/search?cat=tedx_events&amp;q=How+humans+could+evolve+to+survive+in+space">TEDx events</a>
+<span class="submenu__item__count">
+0
+</span>
+</li>
+
+</ul>
+</div>
+</nav>
+</div>
+<div class="col-lg-9 search__results module m2">
+<form action="/search" class="form-group pos:r" role="search">
+<input aria-label="Search" autocorrect="off" class="form-control" name="q" placeholder="Type to search" title="Press Enter to begin search" value="How humans could evolve to survive in space" />
+<label class="pos:a right:0 top:0">
+<input class="d:n" type="submit" />
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="button" tabindex="0">
+  <title>Search</title>
+  <path d="M2 2h36v36H2V2z" fill="#FFF"/>
+  <path d="M17.769 5.081c-7.006 0-12.708 5.695-12.708 12.693 0 6.999 5.702 12.695 12.711 12.695 2.529 0 4.886-.752 6.869-2.033l5.441 5.435a2.695 2.695 0 0 0 3.805 0 2.688 2.688 0 0 0 0-3.803l-5.44-5.431a12.59 12.59 0 0 0 2.034-6.863c-.001-6.998-5.7-12.693-12.712-12.693zm10.165 12.693c0 5.599-4.56 10.151-10.162 10.151-5.604 0-10.163-4.554-10.163-10.151 0-5.597 4.559-10.15 10.163-10.146 5.602 0 10.16 4.549 10.162 10.146z" fill="#666"/>
+</svg>
+</label>
+</form>
+<section>
+<div class="heading m2">
+<div class="heading__body h3">All results</div>
+<span class="heading__deco">
+<div class="heading__deco__sizer h3"></div>
+10  results
+</span>
+</div>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/talks/lisa_nip_how_humans_could_evolve_to_survive_in_space">Lisa Nip: How humans could evolve to survive in space</a>
+<!--
+Score: 81.0882
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--video">
+<a class="ga-link" data-ga-context="search" href="/talks/lisa_nip_how_humans_could_evolve_to_survive_in_space"><span class="thumb thumb--video"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/947fb6a4-7e68-4bf4-8678-8d51360195c1/LisaNip_2015X-embed.jpg?h=200" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+If we hope to one day leave Earth and explore the universe, our bodies are going to have to get a lot better at surviving the harsh conditions of space. Using synthetic biology, Lisa Nip hopes to harness special powers from microbes on Earth -- such as the ability to withstand radiation -- to make humans more fit for exploring space. "We're appr...
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/talks/lisa_nip_how_humans_could_evolve_to_survive_in_space">https://www.ted.com/talks/lisa_nip_how_humans_could_evolve_to_survive_in_space</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/playlists/what_would_it_be_like_to_live_on_another_planet">Playlist: What would it be like to live on another planet? (7 talks)</a>
+<!--
+Score: 44.053474
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--square">
+<a class="ga-link" data-ga-context="search" href="/playlists/what_would_it_be_like_to_live_on_another_planet"><span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_628/e60691c5-d03a-470c-a100-ec1991e937d2/life_on_mars_SQ.jpg?" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+Forget the rest of solar system -- Mars is humanity's next destination. We keep talking about it, but what would it really be like to live there?
+</div>
+<div class="search__result__kicker m5">
+Curated by TED · 7 talks
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/playlists/what_would_it_be_like_to_live_on_another_planet">http://www.ted.com/playlists/what_would_it_be_like_to_live_on_another_planet</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/playlists/talks_for_when_you_re_just_don">Playlist: Talks for when you're just done with Earth (8 talks)</a>
+<!--
+Score: 40.792107
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--square">
+<a class="ga-link" data-ga-context="search" href="/playlists/talks_for_when_you_re_just_don"><span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_349/just_done_with_earth.jpg?" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+For those times when living a life far beyond our planet looks a little too appealing.
+</div>
+<div class="search__result__kicker m5">
+Curated by TED · 8 talks
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/playlists/talks_for_when_you_re_just_don">http://www.ted.com/playlists/talks_for_when_you_re_just_don</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/playlists/should_we_redesign_humans">Playlist: Should we redesign humans? (12 talks)</a>
+<!--
+Score: 39.958206
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--square">
+<a class="ga-link" data-ga-context="search" href="/playlists/should_we_redesign_humans"><span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_144/should_we_redesign_humans_update.jpg?" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+The age of bioengineering is upon us, with scientists' understanding of how to engineer cells, tissues and organs improving at a rapid pace. Here, how this could affect the future of our physical bodies. 
+</div>
+<div class="search__result__kicker m5">
+Curated by TED · 12 talks
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/playlists/should_we_redesign_humans">http://www.ted.com/playlists/should_we_redesign_humans</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/playlists/top_ted_talks_of_2016">Playlist: Top TED Talks of 2016 (17 talks)</a>
+<!--
+Score: 25.057076
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--square">
+<a class="ga-link" data-ga-context="search" href="/playlists/top_ted_talks_of_2016"><span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_370/the_top_picks_of_2016.jpg?" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+Wonder which talks to get started on in 2016? A collection of hand-picked gems for your viewing pleasure.
+</div>
+<div class="search__result__kicker m5">
+Curated by TED · 17 talks
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/playlists/top_ted_talks_of_2016">http://www.ted.com/playlists/top_ted_talks_of_2016</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/talks/spencer_wells_is_building_a_family_tree_for_all_humanity">Spencer Wells: A family tree for humanity</a>
+<!--
+Score: 6.931128
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--tv">
+<a class="ga-link" data-ga-context="search" href="/talks/spencer_wells_is_building_a_family_tree_for_all_humanity"><span class="thumb thumb--tv"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a876792b535774ae06ca4954a7aee46585ed1921_2400x1800.jpg?h=200" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+All humans share some common bits of DNA, passed down to us from our African ancestors. Geneticist Spencer Wells talks about how his Genographic Project will use this shared DNA to figure out how we are -- in all our diversity -- truly connected.
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/talks/spencer_wells_is_building_a_family_tree_for_all_humanity">https://www.ted.com/talks/spencer_wells_is_building_a_family_tree_for_all_humanity</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/talks/harvey_fineberg_are_we_ready_for_neo_evolution">Harvey Fineberg: Are we ready for neo-evolution?</a>
+<!--
+Score: 5.7491198
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--tv">
+<a class="ga-link" data-ga-context="search" href="/talks/harvey_fineberg_are_we_ready_for_neo_evolution"><span class="thumb thumb--tv"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/25f5beb74f39d8d9cc710103ee3e81b23c90b8a9_800x600.jpg?h=200" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+Medical ethicist Harvey Fineberg shows us three paths forward for the ever-evolving human species: to stop evolving completely, to evolve naturally -- or to control the next steps of human evolution, using genetic modification, to make ourselves smarter, faster, better. Neo-evolution is within our grasp. What will we do with it?
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/talks/harvey_fineberg_are_we_ready_for_neo_evolution">https://www.ted.com/talks/harvey_fineberg_are_we_ready_for_neo_evolution</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/talks/ann_curry_how_to_restore_trust_in_journalism">Ann Curry: How to restore trust in Journalism</a>
+<!--
+Score: 4.2910285
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--video">
+<a class="ga-link" data-ga-context="search" href="/talks/ann_curry_how_to_restore_trust_in_journalism"><span class="thumb thumb--video"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6c5ac22c-d8d3-407f-bd01-0f35dc6d84dd/maxresdefault.jpg?h=200" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+Journalism is a noble calling and the credibility of the profession is at stake. Today, there is weaponization of information and it is dividing us.  Ann Curry passionately shares how people are yearning for journalism they can trust. Her Talk powerfully explains that truth leads to trust, which leads to understanding, understanding leads to hum...
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/talks/ann_curry_how_to_restore_trust_in_journalism">https://www.ted.com/talks/ann_curry_how_to_restore_trust_in_journalism</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="https://ideas.ted.com/what-should-you-read-this-summer-a-mega-reading-list">What should you read this summer? A mega reading list</a>
+<!--
+Score: 3.6139014
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__message">
+<div class="search__result__description m4">
+40+ TED speakers recommend the books you need to read right now.
+OK, so it's not summer everywhere right now. But whatever the weather, it's always time to read a good book. So we compiled summer reading recommendations from TED speakers, and then organized them according to the various situations in which you might find yourself now or through...
+</div>
+<div class="search__result__kicker m5">
+Posted July 20, 2016
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="https://ideas.ted.com/what-should-you-read-this-summer-a-mega-reading-list">https://ideas.ted.com/what-should-you-read-this-summer-a-mega-reading-list</a>
+</div>
+</div>
+</div>
+</article>
+<article class="m1 search__result">
+<h3 class="h7 m4">
+<a class="ga-link" data-ga-context="search" href="/talks/martin_rees_asks_is_this_our_final_century">Martin Rees: Is this our final century?</a>
+<!--
+Score: 1.0109459
+-->
+</h3>
+<div class="media media--oh-v media--lg-h">
+<div class="media__image media__image--thumb search__result__image--tv">
+<a class="ga-link" data-ga-context="search" href="/talks/martin_rees_asks_is_this_our_final_century"><span class="thumb thumb--tv"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bfd70bdb95ddbee93eb8b8e5d7b1a849cefe2159_1600x1200.jpg?h=200" /><span class="thumb__aligner"></span></span></span></span></a>
+</div>
+<div class="media__message">
+<div class="search__result__description m4">
+Speaking as both an astronomer and "a concerned member of the human race," Sir Martin Rees examines our planet and its future from a cosmic perspective. He urges action to prevent dark consequences from our scientific and technological development.
+</div>
+<div class="search__result__visible-url">
+<a class="ga-link visible-url-link" data-ga-context="search" href="/talks/martin_rees_asks_is_this_our_final_century">https://www.ted.com/talks/martin_rees_asks_is_this_our_final_century</a>
+</div>
+</div>
+</div>
+</article>
+<div class="search__pagination">
+
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<script data-spec="q">q("results.init")</script></div>
+<footer class="footer">
+<div class="container">
+<div class="footer__content">
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class="footer__content__links">
+<nav class="footer__section" role="navigation">
+<h3 class="footer__title">
+Programs &amp; initiatives
+</h3>
+<ul class="footer__links">
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class="footer__section" role="navigation">
+<h3 class="footer__title">
+Ways to get TED
+</h3>
+<ul class="footer__links">
+<li class="m5"><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class="m5"><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class="footer__section" role="navigation">
+<h3 class="footer__title">Follow TED</h3>
+<ul class="footer__links">
+<li class="m5"><a class="footer__link" target="_blank" href="https://www.facebook.com/TED">Facebook</a></li>
+<li class="m5"><a class="footer__link" target="_blank" href="https://twitter.com/tedtalks">Twitter</a></li>
+<li class="m5"><a class="footer__link" target="_blank" href="https://www.pinterest.com/tednews">Pinterest</a></li>
+<li class="m5"><a class="footer__link" target="_blank" href="https://instagram.com/ted">Instagram</a></li>
+<li class="m5"><a class="footer__link" target="_blank" href="https://www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="https://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class="footer__section" role="navigation">
+<h3 class="footer__title">Our community</h3>
+<ul class="footer__links">
+<li class="m5"><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class="m5"><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class="m5"><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class="m5"><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class="m5"><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class="footer__content__forms">
+<form class="footer-newsletter footer__section footer__section--form p-r:.8">
+<h3 class="footer__title">Want personalized recommendations?</h3>
+<div class="c:black f:.9 m-b:2">
+Join
+<span class="f-w:700">
+TED Recommends
+</span>
+and get the perfect ideas selected just for you.
+</div>
+<a class="ga-link bg:gray-dd b-r:.2 c:white hover/c:white d:i-b f:1 f-w:700 p-y:1 p-x:4 t-d:n" data-ga-action="getStarted" data-ga-category="footer" data-ga-label="recommends" href="/recommends?exploreCTASource=footer.link">
+Get started
+</a>
+</form>
+<form class="footer__section" style="display:none;">
+<h3 class="footer__title">Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class="form-control" disabled="">
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class="footer__services">
+<div class="container footer__services__container">
+<nav role="navigation">
+<ul class="footer__links">
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="https://support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class="footer__service footer__service--info" role="contentinfo">
+© TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class="shoji__lattice" href="#" id="shoji-lattice"></a>
+</div>
+</div>
+<div id="activity-feed" style="position: relative;"><div role="button" tabindex="0" class="css-pyniqf"><div class="css-f8gyvd"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"><title/><g fill="none" fill-rule="evenodd"><path d="M0 0h20v20H0z"/><path d="M16.361 6.38H13.86a.694.694 0 0 1-.698-.69c0-.381.313-.69.698-.69h4.186c.385 0 .697.309.697.69v4.137c0 .381-.312.69-.697.69a.694.694 0 0 1-.698-.69V7.354l-5.437 5.374a.703.703 0 0 1-.986 0L7.93 9.768l-4.74 4.684a.703.703 0 0 1-.986 0 .684.684 0 0 1 0-.975l5.233-5.172a.703.703 0 0 1 .986 0l2.995 2.96 4.943-4.886z" fill="#FFFFFF" fill-rule="nonzero"/></g></svg><div class="css-1dye8v0"><span class="css-12ndbk2"> |</span> New! <span class="css-10rvbm3">Activity Feed</span></div></div></div><div class="css-1g15xfy"><div class="css-1u5xntt"><div class="header css-3cnqrb"><div class="css-stegvf">Activity Feed <span class="css-1f6akv7"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"><title/><defs><path d="M16.361 6.38H13.86a.694.694 0 0 1-.698-.69c0-.381.313-.69.698-.69h4.186c.385 0 .697.309.697.69v4.137c0 .381-.312.69-.697.69a.694.694 0 0 1-.698-.69V7.354l-5.437 5.374a.703.703 0 0 1-.986 0L7.93 9.768l-4.74 4.684a.703.703 0 0 1-.986 0 .684.684 0 0 1 0-.975l5.233-5.172a.703.703 0 0 1 .986 0l2.995 2.96 4.943-4.886z" id="b"/><filter x="-3%" y="-5.2%" width="106%" height="120.7%" filterUnits="objectBoundingBox" id="a"><feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/><feColorMatrix values="0 0 0 0 0.858823529 0 0 0 0 0.882352941 0 0 0 0 0.901960784 0 0 0 1 0" in="shadowOffsetOuter1"/></filter></defs><g fill="none" fill-rule="evenodd"><path d="M0 0h20v20H0z"/><g fill-rule="nonzero"><use fill="#000" filter="url(#a)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#b"/><use fill="currentColor" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#b"/></g></g></svg></span><div tabindex="0" role="button" class="css-14h3ckt"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentcolor" width="100%" height="100%"><title/><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg></div></div></div><div class="css-noq0u"><div class="css-d3ew0d"><div class="css-q5fqw0"><p class="css-1algtyf">Discover recommendations from the <span class="css-1lnvxw0">TED community</span></p><p class="css-gx0lhm"><a href="/recommends?exploreCTASource=activity-feed" class="css-1id2ukx">Sign up now</a></p><img src="https://pi.tedcdn.com/r/pl.tedcdn.com/explore/email/recommends/holding.png?u%5Br%5D=2&amp;u%5Bs%5D=0.5&amp;u%5Ba%5D=0.8&amp;u%5Bt%5D=0.03&amp;quality=82&amp;w=400" alt="Join TED Recommends" class="css-fm31c3" /></div></div></div></div></div></div>
+<script>g("activityFeed","#activity-feed",{})</script><script src="https://pa.tedcdn.com/javascripts/screens/manifest-0182be67d6eb7dc5eb91.js"></script>
+<script src="https://pa.tedcdn.com/javascripts/screens/22cc1a63fe14e153e41f.chunk.js"></script>
+<script async="" src="https://pa.tedcdn.com/javascripts/screens/06e0f215bd3d6e579e77.chunk.js"></script><script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    gads.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js';
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&amp;](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&amp;'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.4')
+</script></body></html>

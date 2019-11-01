@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">Ejemplo de implementación de Cucumber con Serenity</span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="37a59d5c04ea30229bb369cb1bf6296a8b66afd3d7f2da9369965cf710468386.html">Conference Playback On The Ted Platform</a></span>
+                > <span class="truncate-60"><a
+                    href="6ae51cf2b2b6d4d1405ca189af902167dd01cb1dd7cafd3beb194383ee7d2985.html">Reproduce a conference on the TED platform </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 30-07-2019 16:20</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Conference Playback On The Ted Platform </span>
+                                    <span class="badge tag-badge">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                As a TED user, I want to log in to the platform and playback one of the conferences
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" href="bca18eb34184f466810ee7a90d04748e21a2df6dea7311083e75ce6b8ed2a2f5.html">Tag1
+                                    (tag)</a>
+                                </span>
+                            </p>
+                            <p class="tag">
+                                <span class="badge tag-badge">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" href="11e58a360361a6ec6cfb1df32dcb13b780bb545b3de0654fe7fc1bf5e89d79a8.html">Feature1
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-square-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Reproduce a conference on the TED platform
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="135be46ea15a05d221be4f6b4c9fda1c956e3791d9a64558f549c65cafefbb69.png" title="Given I open the browser on the TED page" width="960"/>
+                <img src="c657f9ef9aabf56221bca0818192aff30639596602687097d9dc373496f73b63.png" title="Is the home page" width="960"/>
+                <img src="c657f9ef9aabf56221bca0818192aff30639596602687097d9dc373496f73b63.png" title="Given I enter the credentials of esuarca@gmail.com with Esuarca1026" width="960"/>
+                <img src="scaled_138a4ddc05f142fc3974a9cdf3212b3f741b8885b1dcc2fbddd96aaddf928de8.png" title="Given I enter the credentials of esuarca@gmail.com with Esuarca1026" width="960"/>
+                <img src="f4948d5059d857c57c7e220391018d26375c5b026e49b1325b56bea616f5ca6c.png" title="Is enter credentials: esuarca@gmail.com, Esuarca1026" width="960"/>
+                <img src="scaled_ae3ae53c7e045ef6ca827ab8b69232a9b673caa557ab07b38e6bea9c7c14691f.png" title="When I want to search the conference How humans could evolve to survive in space" width="960"/>
+                <img src="13a7b9e16f0c143f15b26032cae3a0fa21235d8b5c1c443d3f0e40b1d4c6b501.png" title="When I want to search the conference How humans could evolve to survive in space" width="960"/>
+                <img src="scaled_73f35d91c4c2bf379d693c3acfa85e271c555f531c85283a188d2e7f008d7134.png" title="Is want to search the conference" width="960"/>
+                <img src="scaled_4c4842336163cbd90372d180d8eaff0d0025c923cbe76eb9632b513dda8b3ca7.png" title="Is want to search the conference" width="960"/>
+                <img src="scaled_6f04332a1f7072c01b0d31f68992d6f2e60e68aee425177ba78d04c3e203e508.png" title="Is want to search the conference: How humans could evolve to survive in space" width="960"/>
+                <img src="13a7b9e16f0c143f15b26032cae3a0fa21235d8b5c1c443d3f0e40b1d4c6b501.png" title="Is want to search the conference: How humans could evolve to survive in space" width="960"/>
+                <img src="scaled_fdadc9a3d5a6ba7c16b3ffabdc0d444b1ec5636c543f4ee453c295db863e6235.png" title="When I open the conference" width="960"/>
+                <img src="008c1c0a9e2d50208d2f157b18f741f9741a546a2b34857a28373c819a5c4bbc.png" title="Is open the conference" width="960"/>
+                <img src="825c70c3587ac3a4df1adf915c364fe2eefedfb54821a2cca70aa6c5e1feefa7.png" title="Is open the conference" width="960"/>
+                <img src="1dc99c51529b53824b002caddffcf879b97b4290d2418cc1fa47178e300aecd8.png" title="When I reproduce the conference" width="960"/>
+                <img src="81472057209fd5c6cf52b1bfe50bb60030c24a9707996f75c79b8a7645df1465.png" title="When I reproduce the conference" width="960"/>
+                <img src="7278d20e3b2f1e9cd89c29deb4d175f7a9e69761bf6fb8383e4a930b9313594e.png" title="Is reproduce the conference" width="960"/>
+                <img src="scaled_72146c72474729b8e3b5dea9d25b6fac2c1c8cf8d92217aa2ecac7491688c190.png" title="Is reproduce the conference" width="960"/>
+                <img src="452c6f1fc7af7ad469d2f5536b2cac3d27d7031a2524b96290dc0fa1ff7059bb.png" title="Then I open the conference correctly" width="960"/>
+                <img src="scaled_3b44255be9a8270dc8e39aec8c3da94de7617de35574794658d59ec5358b0386.png" title="Then I open the conference correctly" width="960"/>
+                <img src="024285b3dbcd17ca632699edf20f503b7ac9582f5d0b4a386c245640d891fd8b.png" title="Is open the conference correctly" width="960"/>
+                <img src="scaled_049fa64623759da1a30bdb2e89fa4344c77784de0a17d3d841502c8c5c137865.png" title="Is open the conference correctly: <span class='success-color'>SUCCESS</span>" width="960"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.5.1</span>
+</div>
+</body>
+</html>
